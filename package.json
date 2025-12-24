@@ -1,0 +1,16 @@
+{
+  "name": "ticketready",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TicketReady - Ticket-ready IT text generator with paywall and daily free limit.",
+  "scripts": {
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "openai": "^4.60.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
